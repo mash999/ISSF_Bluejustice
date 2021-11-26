@@ -1,0 +1,21 @@
+export default {
+    borderColor: '#CCC',
+    bodyText: '#333',
+    bronze: '#9C5438',
+    danger: '#DC3545',
+    evenRow: '#FFF',
+    faded: '#666',
+    gold: '#F2CC00',
+    middlePodium: '#6EA8DB',
+    newNotification: '#ECF3FF',
+    newNotificationBorder: '#AAC9FF',
+    oddRow: '#F2F2F2',
+    podium: '#5591CD',
+    podiumBar: '#5083b3',
+    primary: '#4D9DE0',
+    sectionColor: '#FFF',
+    silver: '#BBB',
+    success: '#28A745',
+    title: '#1A80D5',
+    warning: '#FFC107'
+}
